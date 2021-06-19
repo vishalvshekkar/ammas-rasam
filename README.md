@@ -69,7 +69,7 @@ Rasam Powder (Instructions for this given later) | 3 to 3.5 Teaspoons (adjust fo
 Jeera | 1 Cup
 Whole Black Pepper | 1/3 Cup
 Dhaniya Seeds | 1/4 Cup
-Asafoetida (Hing) Paste (Not powder) | A blob (See photo attached)
+Asafoetida (Hing) Paste (Not powder) | A blob [See photo attached](/blob-of-asafoetida.jpg)
 Curry Leaves | 6 Long Stalks (extract only leaves and discard the stalks)
 
 ### Steps
@@ -90,3 +90,4 @@ Curry Leaves | 6 Long Stalks (extract only leaves and discard the stalks)
 ## Attachments
 
 A. Showing Blob of Asafoetida for Rasam Powder. (Not for Rasam).
+![Blob of Asafoetida](/blob-of-asafoetida.jpg)
